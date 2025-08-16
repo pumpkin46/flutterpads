@@ -1,0 +1,1 @@
+const o="_button_81c7o_1",d="_fullWidth_81c7o_29",_="_hoverRounded_81c7o_36",t="_rounded_81c7o_36",e="_border_81c7o_66",n="_shadow_81c7o_69",r="_hoverShadow_81c7o_75",c={button:o,fullWidth:d,hoverRounded:_,rounded:t,border:e,shadow:n,hoverShadow:r};export{c as s};

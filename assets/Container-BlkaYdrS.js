@@ -1,0 +1,1 @@
+import{p as c}from"./chunk-C37GKA54-Bp-yZdMk.js";const i="_container_110xz_1",m="_small_110xz_7",s={container:i,small:m},_=({children:n,small:a,medium:t,large:o,className:e="",as:l="div"})=>{const r=a?s.small:t?s.medium:o?s.large:"";return c.jsx(l,{className:`${s.container} ${r} ${e}`,children:n})};export{_ as C};
